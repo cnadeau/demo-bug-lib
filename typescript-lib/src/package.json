@@ -1,0 +1,7 @@
+{
+  "name": "shared-ts-lib",
+  "description": "shared typescript module",
+  "version": "0.0.1",
+  "private": false,
+  "main" : "shared.tsmodule.js"
+}
